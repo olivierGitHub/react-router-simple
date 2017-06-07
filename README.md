@@ -1,7 +1,17 @@
 
-- [Available Scripts](#available-scripts)
-  - [npm start](#npm-start)
-  - [npm test](#npm-test)
-  - [npm run build](#npm-run-build)
-  - [npm run eject](#npm-run-eject)iable explicitly from the `window` object
+#Objectives
+manipuler les props, les injections de components et le router react (centré client)
+
+
+#pre-requis
+npm installé
+
+#installation:
+ [ npm install ]
+
+
+#Scripts disponibles
+  - [ npm start ] run le projet
+  - [ npm test ] run les tests unitaires
+  - [ npm run build ] build le projet
 
